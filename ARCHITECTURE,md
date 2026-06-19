@@ -1,0 +1,31 @@
+# Gmail Intelligence Platform Architecture
+
+## Frontend
+React Dashboard
+
+## Backend
+FastAPI REST APIs
+
+Endpoints:
+- /gmail/dashboard
+- /gmail/emails
+
+## Database
+PostgreSQL
+
+Tables:
+- emails
+
+## Gmail Integration
+Gmail API fetches emails
+
+## Analytics
+- Total Emails
+- Job Emails
+- High Priority Emails
+- Category Analysis
+
+## Future Scope
+- AI Reply Generation
+- Email Summarization
+- Thread Awareness
